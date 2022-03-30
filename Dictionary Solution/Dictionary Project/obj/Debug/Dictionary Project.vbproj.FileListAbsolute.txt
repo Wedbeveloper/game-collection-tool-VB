@@ -1,0 +1,13 @@
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\bin\Debug\Dictionary Project.exe.config
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\bin\Debug\Dictionary Project.exe
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\bin\Debug\Dictionary Project.pdb
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\bin\Debug\Dictionary Project.xml
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.vbproj.AssemblyReference.cache
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary_Project.Form1.resources
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary_Project.Resources.resources
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.vbproj.GenerateResource.cache
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.vbproj.CoreCompileInputs.cache
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.exe
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.xml
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.pdb
+D:\GRCC Documents\Visual Basic 2\Week 9\Dictionary Solution\Dictionary Project\obj\Debug\Dictionary Project.vbproj.SuggestedBindingRedirects.cache
